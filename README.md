@@ -19,11 +19,11 @@ Welcome to my coding and data science journey! I’m Berfe, a data scientist ded
 
 ### 📌 Featured Projects:
 
-- **[📊 Customer Segmentation Model](https://github.com/berfek/train-delay-prediction)**  
+- **[📊 Train Delay Prediction](https://github.com/berfek/train-delay-prediction)**  
   Developed a machine learning model predicting train delays, using historical data to enhance operational efficiency, optimize scheduling, and improve punctuality by proactively adjusting schedules.
 
-- **[📈 Banking Data Dashboard](https://github.com/berfek/banking-dashboard)**  
-  Designed an interactive Tableau dashboard to visualize key financial metrics, providing real-time decision-making support.
+- **[📈 Text Processing](https://github.com/berfek/text-processing )**  
+  Implemented Natural Language Processing (NLP) techniques to handle sensitive information in text data. 
 
 ### 📫 How to reach me:
 - **LinkedIn**: [linkedin.com/in/berfek](https://www.linkedin.com/in/berfekolcak/)  
