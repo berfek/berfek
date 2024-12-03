@@ -2,11 +2,11 @@
 
 **Data Scientist** | 📊 **Passionate about Data-Driven Insights** | 🌍 **Based in Germany**
 
-Welcome to my GitHub profile! I’m Berfe, a data scientist with extensive experience in turning complex data into actionable insights. I specialize in leveraging machine learning, generative AI, and analytics to drive business growth.
+Welcome to my coding and data science journey! I’m Berfe, a data scientist dedicated to transforming complex data into actionable insights. With experience in machine learning, generative AI, and advanced analytics, I focus on using data to drive business growth and innovation.
 
 ---
 
-### Tech Stack
+### Tech Stack:
 
 - **Programming Languages**: Python, SQL  
 - **Tools & Platforms**: AWS, Databricks, Tableau, Power BI, Oracle BI  
@@ -16,6 +16,18 @@ Welcome to my GitHub profile! I’m Berfe, a data scientist with extensive exper
 - **Big Data Frameworks**: Apache Spark, Hadoop, PySpark
 - **Project Management & DevOps**: Agile, Scrum, DevOps
 - **Data Visualisation**: Tableau, Power BI, Matplotlib, Seaborn, Plotly
+
+### 📌 Featured Projects:
+
+- **[📊 Customer Segmentation Model](https://github.com/berfek/train-delay-prediction)**  
+  Developed a machine learning model predicting train delays, using historical data to enhance operational efficiency, optimize scheduling, and improve punctuality by proactively adjusting schedules.
+
+- **[📈 Banking Data Dashboard](https://github.com/berfek/banking-dashboard)**  
+  Designed an interactive Tableau dashboard to visualize key financial metrics, providing real-time decision-making support.
+
+### 📫 How to reach me:
+- **LinkedIn**: [linkedin.com/in/berfek](https://www.linkedin.com/in/berfekolcak/)  
+
 
 <!--
 **berfek/berfek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
