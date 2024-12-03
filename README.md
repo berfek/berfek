@@ -9,7 +9,7 @@ Welcome to my coding and data science journey! I’m Berfe, a data scientist ded
 
 ---
 
-### Tech Stack:
+### Languages and Tools:
 
 - **Programming Languages**: Python, SQL  
 - **Tools & Platforms**: AWS, Databricks, Tableau, Power BI, Oracle BI  
