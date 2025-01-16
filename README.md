@@ -1,6 +1,6 @@
 ## Hello! I'm Berfe
 
-**Data Scientist** | 📊 **Passionate about Data-Driven Insights** | 🌍 **Based in Germany**
+**Data Scientist** | 📊 ** Data-Driven Insights** | 🌍 **Based in Germany**
 
 
 Welcome to my coding and data science journey! I’m Berfe, a data scientist dedicated to transforming complex data into actionable insights. With a Master’s in Data Science from the University of Greenwich London and a Bachelor’s in Statistics from the Yildiz Technical University Istanbul, I specialize in machine learning, generative AI, and advanced analytics. I focus on using data to drive business growth and innovation.
